@@ -1,0 +1,8 @@
+# Core dependencies for JobFinder project
+fastapi
+uvicorn
+weaviate-client
+pandas
+requests
+streamlit
+pydantic
